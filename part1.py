@@ -35,7 +35,7 @@ for i in range(len(loadSchedule)):
 POPULATION_SIZE = 200  # Размер популяции
 P_CROSSOVER = 0.9  # Шанс скрещивания
 P_MUTATION = 0.1  # Шанс мутации
-MAX_GENERATION = 500  # Максимальное количество поколений
+MAX_GENERATION = 5000  # Максимальное количество поколений
 
 operations = [-4000, -3000, -2000, -1000, 0, 1000, 2000, 3000, 4000]  # Индивид
 
